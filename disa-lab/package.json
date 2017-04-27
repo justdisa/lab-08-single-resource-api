@@ -1,0 +1,26 @@
+{
+  "name": "disa-lab",
+  "version": "1.0.0",
+  "description": "Lab 08 Javascript 401-15",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[Cserver.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[2~https://github.com/justdisa"
+  },
+  "author": "justdisa",
+  "license": "MIT",
+  "keywords": [],
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "debug": "^2.6.4",
+    "eslint": "^3.19.0",
+    "mocha": "^3.3.0"
+  }
+}
